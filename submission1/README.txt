@@ -11,8 +11,5 @@ NFT as a proof of Digital Ownership-reward system integrated to a Secure Distrib
 Link to the paper:
 https://ieeexplore.ieee.org/document/10005502
 
-Group Number:
-0
-
 Individual Submitter:
 23366011 Name: ABU SUFIAN
